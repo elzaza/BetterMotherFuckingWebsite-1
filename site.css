@@ -1,0 +1,21 @@
+.italic
+{ 
+    font-style: italic;
+ }
+body
+{
+	margin: 40px auto;max-width: 650px;line-height: 1.6;font-size: 18px
+
+	}
+	.couverture
+{
+	font-family:"Courier New"
+}
+body
+{
+	background-image: url(meme-fevrier-2017.jpg);
+}
+body
+{
+	color: white
+}
