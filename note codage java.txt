@@ -1,0 +1,2 @@
+setTimeout(function(){alert ("hey le site xxxvidsxxx est trop bien. Viens dessus la con de ta race")},10000);
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
